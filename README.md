@@ -1,4 +1,4 @@
-# E-commerce-Customer-Engagement-Purchasing-Behavior-Analysis
+# E-commerce-Customer-Engagement-and-Purchasing-Behavior-Analysis
 ## Table of Contents
 - [Introduction](#introduction)
 - [Business Question](#business-question)
